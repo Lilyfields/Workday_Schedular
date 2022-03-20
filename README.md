@@ -84,12 +84,7 @@ Art is a forever growing passionate interest, that plays an important role in th
 <img src="https://user-images.githubusercontent.com/94832331/159162727-ab6aab78-325b-4333-ba8c-8ffb53d9b67c.png" width="300" height="150">  <img src="https://user-images.githubusercontent.com/94832331/159162235-f20c8aee-fdfe-491e-993c-660236ea21aa.png" width="300" height="150">
 
 
-````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-* Note in the previous screenshot we had school events on the left side, which we have created and save.
-* By pressing on the bin icon, we have removed school events. 
-* Then by pressing on the plus sign we created a new note; which we have named and saved as class. 
 
-````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 ## Key Features
 
