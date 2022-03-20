@@ -54,7 +54,7 @@ Art is a forever growing passionate interest, that plays an important role in th
 **********************************************
 ## LINK TO DEPLOY APPLICATION
 
-https://blooming-falls-30021.herokuapp.com/
+
 
 **********************************************
 
@@ -63,7 +63,7 @@ https://blooming-falls-30021.herokuapp.com/
 **Local and Interstate**
 
 
-<img src="!https://user-images.githubusercontent.com/94832331/159158066-7ffd80eb-caca-419b-bddb-959cf3d0fac3.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/94832331/159158066-7ffd80eb-caca-419b-bddb-959cf3d0fac3.png" width="600" height="300">
 
 
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
