@@ -81,7 +81,7 @@ Art is a forever growing passionate interest, that plays an important role in th
 
 **artJacent in the making**
 
-<img src="https://user-images.githubusercontent.com/94832331/159162235-f20c8aee-fdfe-491e-993c-660236ea21aa.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/94832331/159162235-f20c8aee-fdfe-491e-993c-660236ea21aa.png" width="300" height="150"><img src="https://user-images.githubusercontent.com/94832331/159162235-f20c8aee-fdfe-491e-993c-660236ea21aa.png" width="300" height="150">
 
 
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
