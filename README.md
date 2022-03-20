@@ -73,7 +73,7 @@ Art is a forever growing passionate interest, that plays an important role in th
 * The aqua coloured lines represents local connections.
 * The yellow coloured lines represents interstate connections.
 * NOTE: Artwork developers within the same local district would be able to view each others artwork,
-  before other artwork developers from further locations and interstate. 
+  before other artwork developers from farther locations and interstate. 
 
 
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
