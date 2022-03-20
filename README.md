@@ -79,7 +79,7 @@ Art is a forever growing passionate interest, that plays an important role in th
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 
-** artJacent in the making **
+**artJacent in the making**
 
 <img src="https://user-images.githubusercontent.com/94832331/155739643-7f5acc85-6ad0-4386-893b-76d3bc6bb6fc.png" width="600" height="300">
 
