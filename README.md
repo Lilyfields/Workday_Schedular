@@ -63,21 +63,22 @@ Art is a forever growing passionate interest, that plays an important role in th
 **Local and Interstate Connection**
 
 
-<img src="https://user-images.githubusercontent.com/94832331/159158066-7ffd80eb-caca-419b-bddb-959cf3d0fac3.png" width="400" height="200">     <img src="https://user-images.githubusercontent.com/94832331/159158556-25020389-0c69-4010-acf9-46f5d0e379b8.png" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/94832331/159158066-7ffd80eb-caca-419b-bddb-959cf3d0fac3.png" width="400" height="200"> <img src="https://user-images.githubusercontent.com/94832331/159158556-25020389-0c69-4010-acf9-46f5d0e379b8.png" width="400" height="200">
 
 
 
 
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
-* Note when you start typing in the content the save icon will appear in the right top corner.
-* If you want to create a new note, you can push on the plus sign 
-  and the application will enable you to do this.
+* The aqua coloured lines represents local connections.
+* The yellow coloured lines represents interstate connections.
+* NOTE: Artwork developers within the same local district would be able to view each others artwork, before other artwork developers from further locations and interstate. 
+
 
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 
-**DELETE**
+** artJacent in the making **
 
 <img src="https://user-images.githubusercontent.com/94832331/155739643-7f5acc85-6ad0-4386-893b-76d3bc6bb6fc.png" width="600" height="300">
 
