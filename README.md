@@ -1,86 +1,37 @@
 # Workday_Schedular
 
-## Authors:
 
+## My Journey and Development
 
+Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-## Links for project:
+Using the [Moment.js](https://momentjs.com/) library to work with date and time; using Moment.js in the browser.
 
+## User Story
 
+```md
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
+```
 
+## Concept of design and function
 
+```md
+GIVEN I am using a daily planner to create a schedule
+WHEN I open the planner
+THEN the current day is displayed at the top of the calendar
+WHEN I scroll down
+THEN I am presented with timeblocks for standard business hours
+WHEN I view the timeblocks for that day
+THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+WHEN I click into a timeblock
+THEN I can enter an event
+WHEN I click the save button for that timeblock
+THEN the text for that event is saved in local storage
+WHEN I refresh the page
+THEN the saved events persist
+```
 
-## User Story:
+<image src="https://image.shutterstock.com/z/stock-photo-hand-putting-wooden-cube-on-virtual-infographic-rectangle-block-with-progress-wording-job-1735505120.jpg" width= 700  height=900>
 
-
-
-## Project Description:
-
-
-
-## Motivation:
-
-
-
-## Details of our application:
-
-- Use Node.js and Express.js to create a RESTful API.
-
-- Use Handlebars.js as the template engine.
-
-- Use MySQL and the Sequelize ORM for the database.
-
-- Have both GET and POST routes for retrieving and adding new data.
-
-- Other npm, libaries, and technology used for this application:
-
-- Have a folder structure that meets the MVC paradigm.
-
-- Include authentication (express-session and cookies).
-
-- Protect API keys and sensitive information with environment variables.
-
-
-**********************************************
-## LINK TO DEPLOY APPLICATION
-
-
-
-**********************************************
-
-## Images for :
-
-**Local and Interstate Connection**
-
-
-<img src="https://user-images.githubusercontent.com/94832331/159158066-7ffd80eb-caca-419b-bddb-959cf3d0fac3.png" width="400" height="200"> <img src="https://user-images.githubusercontent.com/94832331/159158556-25020389-0c69-4010-acf9-46f5d0e379b8.png" width="400" height="200">
-
-
-
-
-``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-
-* 
-
-
-``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-
-
-** in the making**
-
-<img src="https://user-images.githubusercontent.com/94832331/159162727-ab6aab78-325b-4333-ba8c-8ffb53d9b67c.png" width="300" height="150">  <img src="https://user-images.githubusercontent.com/94832331/159162235-f20c8aee-fdfe-491e-993c-660236ea21aa.png" width="300" height="150">
-
-
-
-
-## Key Features
-
-- Responsive.
-
-- Interactive (i.e., accept and respond to user input).
-
-- Authentication and security
-
-## Future Development
-
--
