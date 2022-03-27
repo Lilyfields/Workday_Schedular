@@ -32,6 +32,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+### Work in Progress
 
-<image src="https://image.shutterstock.com/z/stock-photo-hand-putting-wooden-cube-on-virtual-infographic-rectangle-block-with-progress-wording-job-1735505120.jpg" width= 700  height=900>
+<image src="https://image.shutterstock.com/z/stock-photo-hand-putting-wooden-cube-on-virtual-infographic-rectangle-block-with-progress-wording-job-1735505120.jpg" width= 1000  height=1000>
 
