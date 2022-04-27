@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Work Day Scheduler</title>
+</head>
+
+<body>
+    <header class="jumbotron">
+        <h1 class="display-3">Work Day Scheduler</h1>
+        <p class="lead"> Your work schedule today My Friend</p>
+        <p id="currentDate" class="lead"></p>
+    </header>
+
+
+    <div class="container">
+        <!-- Timeblocks go here -->
+        <div class="row no-border">
+            <div id="time08" class="col-2 border time-block">8 AM</div>
+            <textarea id="text01" class="content col-9 border"></textarea>
+            <button id="btn01" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time09" class="col-2 border time-block">9 AM</div>
+            <textarea id="text02" class="content col-9 border"></textarea>
+            <button id="btn02" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time10" class="col-2 border time-block">10 AM</div>
+            <textarea id="text03" class="content col-9 border"></textarea>
+            <button id="btn03" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time11" class="col-2 border time-block">11 AM</div>
+            <textarea id="text04" class="content col-9 border"></textarea>
+            <button id="btn04" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time12" class="col-2 border time-block">12 PM</div>
+            <textarea id="text05" class="content col-9 border"></textarea>
+            <button id="btn05" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time13" class="col-2 border time-block">1 PM</div>
+            <textarea id="text06" class="content col-9 border"></textarea>
+            <button id="btn06" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time14" class="col-2 border time-block">2 PM</div>
+            <textarea id="text07" class="content col-9 border"></textarea>
+            <button id="btn07" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time15" class="col-2 border time-block">3 PM</div>
+            <textarea id="text08" class="content col-9 border"></textarea>
+            <button id="btn08" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time16" class="col-2 border time-block">4 PM</div>
+            <textarea id="text09" class="content col-9 border"></textarea>
+            <button id="btn09" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+        <div class="row">
+            <div id="time17" class="col-2 border time-block">5 PM</div>
+            <textarea id="text10" class="content col-9 border"></textarea>
+            <button id="btn10" type="button" class="col-1 btn btn-info saveBtn">Save</button>
+        </div>
+
+    </div>
+    <!-- Calendar Body End -->
+    <br>
+
+    <!-- Footer Start -->
+    <footer>
+        <p>Have a good day !</p>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+        crossorigin="anonymous"></script>
+    <script src="./index.js"></script>
+</body>
+
+</html>
