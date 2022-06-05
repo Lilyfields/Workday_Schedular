@@ -15,22 +15,16 @@ I WANT a planner that hightlights the activites I have planned in the future and
 ## Concept of the design and function
 
 
-WHEN I 
-THEN I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN the button turns red and the word incorrect flashes up in the left hand corner. No points are gain with incorrect answers.
-WHEN I answer a question correctly
-THEN the button turns green.The word correct flashes up in the left hand corner. Points are gained with correct answers.
-WHEN all questions are completed
-THEN Game is over.
-THEN I can save my scores and play again
-```
+WHEN I type in my activities in a time slot
+THEN I am able to save it on the workday schedular
+WHEN I view my workday schedular
+THEN I am able to see the past, present, and future
+
 
 
 ## Images for Workday_Schedular
 
+<image src="https://user-images.githubusercontent.com/94832331/172049818-d6aee50d-9cba-46a3-a51b-bf00eaf7f74f.png width=600 height=600">
 
 
 
