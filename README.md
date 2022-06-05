@@ -24,8 +24,7 @@ THEN I am able to see the past, present, and future
 
 ## Images for Workday_Schedular
 
-<image src="https://user-images.githubusercontent.com/94832331/172049818-d6aee50d-9cba-46a3-a51b-bf00eaf7f74f.png width=600 height=600">
-
+<image src="https://user-images.githubusercontent.com/94832331/172049975-fad5de04-0221-440e-b7ad-68de0e03c352.png" width=600 height=600>
 
 
 ## Key Features
