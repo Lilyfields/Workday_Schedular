@@ -7,13 +7,14 @@ Building a Planner using html, CSS, JavaScript and moment js.
 
 ## User Story
 
-```
+***************************
 I WANT a planner that hightlights the activites I have planned in the future and have completed in the past. 
-```
+
+**************************
 
 ## Concept of the design and function
 
-```
+
 WHEN I 
 THEN I am presented with a question
 WHEN I answer a question
